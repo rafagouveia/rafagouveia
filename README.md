@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Rafael 👋</h1>
+<img src="https://i.imgur.com/Y6CAZPr.png" />
 <h3 align="center">A developer full-stack from Brazil</h3>
 # 💫 About Me:
 Sempre procuro programar soluções que facilite o meu dia-a-dia, pequenas soluções que facilitem meu trabalho diário, e me identifiquei com algumas tecnologias atuais, conhecimento totalmente autodidata, já que programo dês de cedo.
